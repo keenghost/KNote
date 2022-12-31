@@ -1,0 +1,8 @@
+{
+  "name": "k-note",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "scripts": {},
+  "author": "keenghost",
+  "license": "MIT"
+}
