@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "node",
+
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+
+    "newLine": "lf",
+    "noEmit": true,
+
+    "skipLibCheck": true,
+  },
+  "include": [
+    "gulpfile.ts",
+  ]
+}
